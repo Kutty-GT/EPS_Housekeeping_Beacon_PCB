@@ -1,0 +1,13 @@
+# KiCad backups
+*-backups/
+*.bak
+
+# KiCad cache
+fp-info-cache
+
+# Local project settings
+*.kicad_prl
+
+# Temporary files
+*.tmp
+*.lck
