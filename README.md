@@ -14,14 +14,14 @@ __________
 
 Folder Structure
 
-My_Satellite_Stack/             <-- A master folder holding everything
+My_Satellite_Stack/             <-- A master folder holding everything  
 │
-├── Housekeeping_Main/          <-- Folder for Board 1
+├── Housekeeping_Main/          <-- Folder for Board 1 
 │   ├── Housekeeping_Main.kicad_pro
 │   ├── Housekeeping_Main.kicad_sch
 │   └── Housekeeping_Main.kicad_pcb
 │
-└── Beacon_Transceiver/         <-- Folder for Board 2
+└── Beacon_Transceiver/         <-- Folder for Board 2 
     ├── Beacon.kicad_pro
     ├── Beacon.kicad_sch
     └── Beacon.kicad_pcb
