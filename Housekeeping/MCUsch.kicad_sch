@@ -3994,6 +3994,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 59.69) (xy 170.18 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "141c583d-a7fa-4892-abcd-ce2fc73dbfa0")
+	)
+	(wire
+		(pts
 			(xy 200.66 85.09) (xy 200.66 87.63)
 		)
 		(stroke
@@ -4051,6 +4061,16 @@
 			(type default)
 		)
 		(uuid "1c561245-c234-4a42-917d-eb67eb08c303")
+	)
+	(wire
+		(pts
+			(xy 165.1 52.07) (xy 175.26 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d47b0a9-7412-49c0-9a6d-99d0730e8ab1")
 	)
 	(wire
 		(pts
@@ -4804,6 +4824,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 54.61) (xy 172.72 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1321c98-aecc-4f06-99a0-612f273547b6")
+	)
+	(wire
+		(pts
 			(xy 114.3 39.37) (xy 111.76 39.37)
 		)
 		(stroke
@@ -4871,6 +4901,16 @@
 			(type default)
 		)
 		(uuid "ead4aa11-ea1e-47f4-a243-3887cdbc4922")
+	)
+	(wire
+		(pts
+			(xy 165.1 57.15) (xy 167.64 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebd310d0-6e2e-45f4-af3f-a3f84852838c")
 	)
 	(wire
 		(pts
@@ -5142,6 +5182,30 @@
 		)
 		(uuid "fd1eeeb5-460f-43f2-a9f4-a1e0ce0411fb")
 	)
+	(global_label "eFuse_Beacon_EN"
+		(shape input)
+		(at 167.64 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "03722744-804a-4104-bad8-29c5ccb98611")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 187.377 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "SCL"
 		(shape input)
 		(at 60.96 187.96 0)
@@ -5155,6 +5219,54 @@
 		(uuid "2d13eac3-a4f6-4985-850d-4e68a2dd7a8d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 67.4528 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "eFuse_Main_EN"
+		(shape input)
+		(at 170.18 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e493d7d-3bed-4830-b6e4-a4e3e68aed94")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 187.377 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "PG_Main"
+		(shape input)
+		(at 175.26 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "501c3041-c32c-4c2e-84bf-648e30deeb2e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.107 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5211,6 +5323,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "PG_Beacon"
+		(shape input)
+		(at 172.72 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d8778227-cc91-46e0-98f1-e0d9761b9b13")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.107 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
