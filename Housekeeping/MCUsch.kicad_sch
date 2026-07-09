@@ -4,6 +4,10 @@
 	(generator_version "10.0")
 	(uuid "10a62e53-d746-4714-a29f-21aeb05e9ec4")
 	(paper "A4")
+	(title_block
+		(title "Housekeeping Board")
+		(company "Team Anant - Guru Tanish")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_ARM_JTAG_SWD_10"
 			(pin_names
