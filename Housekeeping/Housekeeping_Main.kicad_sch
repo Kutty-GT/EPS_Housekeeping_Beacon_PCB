@@ -56,6 +56,52 @@
 		)
 	)
 	(sheet
+		(at 20.32 139.065)
+		(size 59.69 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6f054b20-4e55-4361-b080-dcb3d19a0b6f")
+		(property "Sheetname" "Temeperature_Sensor"
+			(at 20.32 138.3534 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Temp_Sensor.kicad_sch"
+			(at 20.32 173.9396 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Housekeeping_Main"
+				(path "/ab76f670-e2c0-47ab-9a32-a91d60c28fa5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 17.145 55.245)
 		(size 62.23 25.4)
 		(exclude_from_sim no)
