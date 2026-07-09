@@ -2326,6 +2326,16 @@
 		)
 		(uuid "e75ad4ac-1c29-4bec-89fa-66c07c34ae04")
 	)
+	(text "3.3V Line to Beacon"
+		(exclude_from_sim no)
+		(at 250.698 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0f16cba3-e7d2-44f6-b140-c145b49b1b9c")
+	)
 	(text "Current Sensor - Main"
 		(exclude_from_sim no)
 		(at 152.146 17.78 0)

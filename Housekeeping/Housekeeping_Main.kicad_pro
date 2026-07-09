@@ -416,7 +416,7 @@
         "uuid": "ab76f670-e2c0-47ab-9a32-a91d60c28fa5"
       }
     ],
-    "used_designators": "U1-7,#PWR1-29,#PWR44-45,#PWR50-69,L1-3,C1-17,C19-24,FB1,SW1-2,R1-28,#FLG5,J1,Y1-2,D1-2,MT1-2,Q1",
+    "used_designators": "U1-9,#PWR1-38,#PWR44-45,#PWR50-69,L1-3,C1-27,FB1,SW1-2,R1-31,#FLG5,J1-2,Y1-2,D1-2,MT1-2,Q1",
     "variants": []
   },
   "sheets": [
@@ -431,6 +431,10 @@
     [
       "7173d2be-516b-4aec-814a-040ba2e6dcbc",
       "Power_Architecture"
+    ],
+    [
+      "8a773eaf-4748-4169-aa92-fde0b3c06464",
+      "CANbus"
     ]
   ],
   "text_variables": {},
