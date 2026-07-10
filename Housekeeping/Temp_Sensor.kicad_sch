@@ -5,6 +5,7 @@
 	(uuid "859d233c-8299-4882-9a2a-e11aea6be0e6")
 	(paper "A4")
 	(title_block
+		(title "Housekeeping Board")
 		(company "Team Anant - Guru Tanish")
 	)
 	(lib_symbols
