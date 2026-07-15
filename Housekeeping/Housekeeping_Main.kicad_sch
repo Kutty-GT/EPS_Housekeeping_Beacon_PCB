@@ -56,8 +56,8 @@
 		)
 	)
 	(sheet
-		(at 20.32 139.065)
-		(size 59.69 34.29)
+		(at 15.875 139.065)
+		(size 64.135 32.385)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -72,7 +72,7 @@
 		)
 		(uuid "6f054b20-4e55-4361-b080-dcb3d19a0b6f")
 		(property "Sheetname" "Temeperature_Sensor"
-			(at 20.32 138.3534 0)
+			(at 15.875 138.3534 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -83,7 +83,7 @@
 			)
 		)
 		(property "Sheetfile" "Temp_Sensor.kicad_sch"
-			(at 20.32 173.9396 0)
+			(at 15.875 172.0346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -189,6 +189,52 @@
 			(project "Housekeeping_Main"
 				(path "/ab76f670-e2c0-47ab-9a32-a91d60c28fa5"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.995 19.05)
+		(size 59.055 24.765)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d0cd5626-ba30-46e1-b1ca-5419fb91ab44")
+		(property "Sheetname" "PC104 Connections"
+			(at 86.995 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PC104sch.kicad_sch"
+			(at 86.995 44.3996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Housekeeping_Main"
+				(path "/ab76f670-e2c0-47ab-9a32-a91d60c28fa5"
+					(page "6")
 				)
 			)
 		)
